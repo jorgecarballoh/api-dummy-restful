@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xFWpQSyCgkkjPz2XelLTvIU+AwQYPVAWbY34UIA0Q92ED8f6AlpHCnoGpow8JB7o7Eb3GX43QhTVteQAJAKctQ==",
+  "success": true,
+  "projectFilePath": "/Users/jorge.carballoh/Documents/Core.Management.DynamicKey/src/Core.Management.Service/Core.Management.DynamicKey.Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/jorge.carballoh/.nuget/packages/microsoft.aspnetcore.openapi/7.0.4/microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "/Users/jorge.carballoh/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/jorge.carballoh/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/jorge.carballoh/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/jorge.carballoh/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/jorge.carballoh/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/jorge.carballoh/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

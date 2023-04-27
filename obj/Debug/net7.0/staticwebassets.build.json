@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VvOFaKvjxZwQChtnoiD52PMlQKVAvMnJTeoEYHrFJfc=",
+  "Source": "Core.Management.DynamicKey.Service",
+  "BasePath": "_content/Core.Management.DynamicKey.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
